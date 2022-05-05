@@ -37,6 +37,6 @@ nodemon app.js
 
 Team Members:
 - Atul Kaushal (19JE0203)
-- Atharva Deshmukh (19JE0202)
+- Atharva Deshmukh (19JE0200)
 - leela guru charan (19JE0204)
 - Pujitha (19JE0205)
